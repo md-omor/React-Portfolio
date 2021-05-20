@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name": "Md Omor",
+    "occupation": "CEO of OM SOFTWARE",
+    "description": "Programmer",
+    "image": "abc.jpg",
+    "bio" : "Hello! I’m Md Omor. I’ve Been working as front-end web developer over 3 Years. I provide you with the technology that you would require to create and deploy the most engaging and easy mobile and web development apps along with other IT services. I not only believe in providing you with the best IT services but also ensure post support services as well.",
+    "contactmessage": "",
+    "email": "developeromor@gmail.com",
+    "phone": "+8801888670672",
+    "address": {
+      "street": "Zigatola, Dhaka",
+      "city": "Dhaka",
+      "state": "Dhanmondi",
+      "zip": "1209"
+    },
+    "website": "https://www.linkedin.com/in/md-omor/",
+    "resumedownload": "https://www.linkedin.com/in/md-omor/",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCFZvFYDIon3hgtyk13Mr79w",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/developeromor",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/md-omor/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/developer_omor/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/md-omor/",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Dhanmondi Govt Boys High School",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "July 2016",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "OM SOFTWARE",
+        "title": "Founder and CEO",
+        "years": "May 2019 - Present",
+        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Js",
+        "level": "100%"
+      },
+      {
+        "name": "Node JS",
+        "level": "75%"
+      },
+      {
+        "name": "Front-end Development",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "85%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "e-commerce (React JS)",
+        "category": "",
+        "image": "ecommerce.jpg",
+        "url": "https://react-course-comfy-sloth-store.netlify.app/"
+      },
+      {
+        "title": "Github user (React JS)",
+        "category": "",
+        "image": "github.jpg",
+        "url": "https://react-search-github-users.netlify.app/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "sycho.jpg",
+        "url": "https://md-omor.github.io/Sycho/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "quiz.jpg",
+        "url": "https://react-projects-23-quiz.netlify.app/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "stockPhoto.jpg",
+        "url": "https://react-projects-19-stock-photos.netlify.app/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "resume-website.jpg",
+        "url": "https://react-projects-19-stock-photos.netlify.app/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "dashboardChat.jpg",
+        "url": "https://md-omor.github.io/Dashboar-with-custom-chat/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "stripe.jpg",
+        "url": "https://react-projects-13-stripe-submenus.netlify.app/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "RandomUser.jpg",
+        "url": "https://react-projects-17-random-user.netlify.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Great Work, fast delivery, very good!!!!!",
+        "user": "dominikbruhn - from: Germany"
+      },
+      {
+        "text": "The seller very good communication and good work.",
+        "user": "leannli2000 - from: USA"
+      }
+    ]
+  }
+}
